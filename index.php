@@ -1,9 +1,9 @@
-<!-- ######### Created by Kayla Gordon on May 5th, 2017 ############ -->
+<!-- Created by Kayla Gordon -->
 
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Challenge 1</title>
+		<title>Logic Table Calculator</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -68,13 +68,11 @@
 	</head>
 	<body>
 		<div class="container">
-			<h1>Challenge One</h1>
-			<h4>The Logic Table Challenge</h4>
+			<h1>Logic Table Calculator</h1>
 			<br />
-			<p>This solution was developed using JavaScript.</p>
+			<p>This solution was developed using JavaScript and uses Bootstrap.</p>
 			<br />		
-			<fieldset>
-				<legend>The Logic Table Calculator</legend>	
+			<fieldset>	
 				<p>Please make your selections below. The results will be dependent on your selction for Choice C.</p>
 				<p><b>Note:</b> Your selection for choice <b>B</b> will be not used if you choose the <b>NOT</b> logic table.</p>
 				<form id="and_form">
